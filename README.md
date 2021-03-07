@@ -1,1 +1,1 @@
-# evs_test
+# nci-ctrp-dev-scripts
